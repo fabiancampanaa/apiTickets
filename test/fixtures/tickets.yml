@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: one
+  buyer: MyString
+  mail: MyString
+  confirmation_code: MyString
+
+two:
+  event: two
+  buyer: MyString
+  mail: MyString
+  confirmation_code: MyString
